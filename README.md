@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I'm Prajwal B!<br>🚀 Final Year Computer Science Student | Full-Stack Developer | AI & Cloud Enthusiast<br><br>💡 Passionate about building scalable applications & AI-driven solutions.<br>⚡ Skilled in MERN Stack, Python, AI/ML, Cloud Computing, and System Design.<br>🛠️ Exploring AI models, distributed systems, and DevOps.<br>🔍 Always learning & experimenting with new technologies.<br>📫 Let's connect!
+👋 Hey, I'm Prajwal B!<br>🚀 Final Year Computer Science Student | Full-Stack Developer | AI & Cloud Enthusiast<br><br>💡 Passionate about building scalable applications & AI-driven solutions.<br>⚡ Skilled in MERN Stack.<br>🛠️ Exploring AI models, distributed systems, and DevOps.<br>🔍 Always learning & experimenting with new technologies.<br>📫 Let's connect!
 
 
 ## 🌐 Socials:
